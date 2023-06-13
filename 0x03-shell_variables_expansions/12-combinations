@@ -1,0 +1,2 @@
+#!/bin/bash
+echo (a-z)9a-z)|tr**"n"|grep-v"oo"
