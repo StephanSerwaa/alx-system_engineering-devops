@@ -1,2 +1,2 @@
 #!/bin/bash
-echo (a.z)9a..z)|tr ' ' 'w'|grep-u"oo"
+echo{a..z}{a..z)|tr"""\"|grep-v"oo"
